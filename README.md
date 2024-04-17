@@ -4,7 +4,7 @@ ___
 ## Installation
 
 `
-pip install easy_id
+pip install easy-id
 `
 
 ---
